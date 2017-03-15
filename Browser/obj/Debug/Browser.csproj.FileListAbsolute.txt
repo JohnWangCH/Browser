@@ -1,0 +1,8 @@
+D:\Workspace_VS\Projects\Browser\Browser\bin\Debug\Browser.exe
+D:\Workspace_VS\Projects\Browser\Browser\bin\Debug\Browser.pdb
+D:\Workspace_VS\Projects\Browser\Browser\obj\Debug\ResolveAssemblyReference.cache
+D:\Workspace_VS\Projects\Browser\Browser\obj\Debug\Browser.Form1.resources
+D:\Workspace_VS\Projects\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+D:\Workspace_VS\Projects\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+D:\Workspace_VS\Projects\Browser\Browser\obj\Debug\Browser.exe
+D:\Workspace_VS\Projects\Browser\Browser\obj\Debug\Browser.pdb
