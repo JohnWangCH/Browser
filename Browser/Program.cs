@@ -13,7 +13,9 @@ namespace Browser
         [MTAThread]
         static void Main()
         {
+            ConfigManager.Instance.Dump();
             Application.Run(new Form1());
         }
+
     }
 }

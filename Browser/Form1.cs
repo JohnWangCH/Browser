@@ -27,10 +27,10 @@ namespace Browser
             try
             {
                 setPage(Page.Page1);
-                webBrowser1.Navigate(new Uri("http://www.google.com"));
-                webBrowser2.Navigate(new Uri("http://www.yahoo.com"));
-                webBrowser3.Navigate(new Uri("http://www.google.com"));
-                webBrowser4.Navigate(new Uri("http://www.youtube.com"));
+                webBrowser1.Navigate(new Uri(ConfigManager.Instance.GetProperty("HomePage1")));
+                webBrowser2.Navigate(new Uri(ConfigManager.Instance.GetProperty("HomePage2")));
+                webBrowser3.Navigate(new Uri(ConfigManager.Instance.GetProperty("HomePage3")));
+                webBrowser4.Navigate(new Uri(ConfigManager.Instance.GetProperty("HomePage4")));
                 this.KeyPreview = true;
                 this.KeyDown += new KeyEventHandler(Form_KeyDown);
                 
